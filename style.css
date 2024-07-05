@@ -1,0 +1,87 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: lightgrey;  
+  }
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: purple;
+}
+a:hover {
+    color: plum;
+    font-weight: bold;
+}
+span {
+    color:green;
+    font-weight: 800;
+}
+.box {
+    margin: 40px 20px 60px 10px; 
+    padding: 20px 20px; 
+    border: 2px solid rgb(107, 107, 107); 
+    border-radius: 3%;
+    width: 30rem; 
+    display: block;
+}
+#box1 {
+    background-color: rgb(165, 244, 244);
+}
+#box2 {
+    background-color: rgb(215, 238, 146);
+    
+}
+#box3 {
+    background-color: rgb(135, 250, 146);
+}
+#box4 {
+    background-color: rgb(240, 149, 149);
+}
+.pic{
+    position: absolute;
+    left: 150px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border: 2px dotted black;
+    background-color: blueviolet;
+}
+h1 {
+    color: red;
+}
+.original {
+    color: brown;
+}
+.additional {
+    color: darkred;
+}
+#show1 {
+    color: chocolate;
+}
+#show2 {
+    color: rgb(173, 83, 19);
+}
+#show3 {
+    color: rgb(160, 73, 11);
+}
+#show4 {
+    color: rgb(84, 37, 3);
+}
+#show5 {
+    color: rgb(44, 19, 1);
+}
+ul {
+    color: rgb(5, 200, 135);
+}
+.star {
+    color: rgb(1, 132, 88);
+}
+#wars {
+    color: rgb(1, 83, 56);
+}
+.listborder {
+    border: 2px solid black;
+}
